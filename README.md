@@ -24,7 +24,7 @@ cd gofood
 
 ls
 
-php claom.php
+php claim.php
 
 
 kode ini untuk daftar dan claim voucher go food gojek cd gofood
